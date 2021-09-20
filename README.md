@@ -7,6 +7,8 @@ Basil and Sadhana like how you created your earthquake map with two different ma
 
 This new assignment consists of three technical analysis deliverables. You will submit the following:
 
+https://dalejandri.github.io/Mapping_Earthquakes/
+
 ## Deliverable 1: Add Tectonic Plate Data
 
 - Deliverable 1 Instructions
