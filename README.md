@@ -10,6 +10,12 @@ Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, you’ll add t
 
 ![](Earthquake_Challenge/static/images/1.PNG)
 
+## Deliverable 2: Add Major Earthquake Data
 
-Deliverable 2: Add Major Earthquake Data
-Deliverable 3: Add an Additional Map
+- Deliverable 2 Instructions
+
+Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, you’ll add major earthquake data to the map using d3.json(), and a color and set the radius of the circle based on the magnitude of earthquake, and add a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON().
+
+![](Earthquake_Challenge/static/images/2.PNG)
+
+## Deliverable 3: Add an Additional Map
